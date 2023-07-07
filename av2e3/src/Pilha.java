@@ -1,3 +1,9 @@
+/* Algoritmo feito por:
+Antonio Carlos Borges de Souza;
+Antônio Leopoldo França Filho;
+Ítalo Ricardo de Andrade Silva;
+Kauê Andrade dos Santos.*/
+
 import java.util.EmptyStackException;
 
 class NoPilha {
