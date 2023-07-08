@@ -14,10 +14,10 @@ class No {
     }
 }
 
-public class ListaEncadeadaAntiga {
+public class ListaEncadeada {
     No cabeca;
 
-    public ListaEncadeadaAntiga(){
+    public ListaEncadeada(){
         this.cabeca = null;
     }
 
@@ -51,7 +51,7 @@ public class ListaEncadeadaAntiga {
     }
 
     public static void main(String[] args) {
-        ListaEncadeadaAntiga l1 = new ListaEncadeadaAntiga();
+        ListaEncadeada l1 = new ListaEncadeada();
 
         System.out.print("Lista encadeada: ");
 
